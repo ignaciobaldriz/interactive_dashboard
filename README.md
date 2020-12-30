@@ -10,5 +10,8 @@ It provides 3 graphics with:
 - Bollinger Band indicator
 
 The information is took by Alpha Vantage API: https://www.alphavantage.co/
+
 The dashboard was generated and deployed with Dash: https://dash.plotly.com/
+
 The cloud application was hosted via Heroku: https://dashboard.heroku.com/apps
+
